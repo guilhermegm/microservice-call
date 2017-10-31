@@ -1,0 +1,18 @@
+{
+  "name": "microservice-call",
+  "version": "1.0.0",
+  "description": "microservice registry integration lib",
+  "main": "./lib/microserviceCall.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermegm/microservice-call"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Giacchetto Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}

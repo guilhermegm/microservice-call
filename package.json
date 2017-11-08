@@ -1,6 +1,6 @@
 {
   "name": "microservice-call",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "microservice registry integration lib",
   "main": "./lib/microserviceCall.js",
   "repository": {
